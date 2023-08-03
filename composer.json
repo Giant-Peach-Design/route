@@ -1,0 +1,14 @@
+{
+    "name": "giantpeach/route",
+    "autoload": {
+        "psr-4": {
+            "Giantpeach\\Route\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giant Peach"
+        }
+    ],
+    "require": {}
+}
