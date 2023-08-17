@@ -1,5 +1,6 @@
 {
   "name": "giantpeach/route",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Giantpeach\\Schnapps\\Route\\": "src/"
